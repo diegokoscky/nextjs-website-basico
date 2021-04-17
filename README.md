@@ -1,3 +1,5 @@
+![](https://www.diegokoscky.com.br/imgs/externos/nextjs-website-basico.png)
+
 ## Criando um website simples usando ReactJS + NextJS + Styled Components
 
 Link do projeto: [nextjs-website-basico](https://nextjs-website-v1.vercel.app/)
